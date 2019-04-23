@@ -1,4 +1,4 @@
-# MSE18-ExtraSession-ComputerShop
+# MSE-ExtraSession-ComputerShop
 
 Task: The Computer Shop
 
